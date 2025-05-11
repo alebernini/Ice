@@ -130,4 +130,7 @@ Apply statistical methods to support data-driven decision-making
 Communicate findings clearly and effectively
 
 ✅ Project Status
-🟢 Completed – The analysis was conducted in Jupyter Notebook with code cells and well-structured markdown documentation. The insights gained can help inform 2017 marketing strategies based on historical trends in genres, platforms, and regional preferences.
+
+🟢 Completed – The analysis was conducted in Jupyter Notebook with code cells and well-structured markdown documentation. The insights gained can help inform 2017 marketing strategies based on historical trends in genres, platforms, and regional preferences. 
+
+Sales increased after the 2000s, with a significant decline after 2010. The highest total sales during the analyzed period were for Wii Sports. Although this game belongs to the Sports genre, there is a clear public preference for Action games. Regional markets have different platform preferences, which may be influenced by local culture and the strong presence and nationality of gaming companies.
